@@ -1,2 +1,4 @@
 Proyecto iniciado.
 26/11/2026 - Revisión
+Bug intencional para practicar git revert.
+Este contenido será anulado por la reversión.
